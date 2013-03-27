@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[StoryP.in]]></title>
-  <link href="http://Jinhai.github.com/atom.xml" rel="self"/>
-  <link href="http://Jinhai.github.com/"/>
-  <updated>2013-03-27T11:05:16+08:00</updated>
-  <id>http://Jinhai.github.com/</id>
+  <link href="http://jinhai.github.com/atom.xml" rel="self"/>
+  <link href="http://jinhai.github.com/"/>
+  <updated>2013-03-27T11:07:46+08:00</updated>
+  <id>http://jinhai.github.com/</id>
   <author>
     <name><![CDATA[Jinhai]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[iWatch猜想]]></title>
-    <link href="http://Jinhai.github.com/blog/2013/02/17/iwatchcai-xiang/"/>
+    <link href="http://jinhai.github.com/blog/2013/02/17/iwatchcai-xiang/"/>
     <updated>2013-02-17T13:10:00+08:00</updated>
-    <id>http://Jinhai.github.com/blog/2013/02/17/iwatchcai-xiang</id>
+    <id>http://jinhai.github.com/blog/2013/02/17/iwatchcai-xiang</id>
     <content type="html"><![CDATA[<h3>基础手表功能</h3>
 
 <p><strong>显示时间</strong>，必须的。<br/>
@@ -53,9 +53,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello Octopress]]></title>
-    <link href="http://Jinhai.github.com/blog/2013/02/16/hello-octopress/"/>
+    <link href="http://jinhai.github.com/blog/2013/02/16/hello-octopress/"/>
     <updated>2013-02-16T12:02:00+08:00</updated>
-    <id>http://Jinhai.github.com/blog/2013/02/16/hello-octopress</id>
+    <id>http://jinhai.github.com/blog/2013/02/16/hello-octopress</id>
     <content type="html"><![CDATA[<p>Github + Octopress looks awesome!<br/>
 It would be nice to have a GUI.<br/>
 hmm&#8230; sounds a good side project ?</p>

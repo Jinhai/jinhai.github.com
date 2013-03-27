@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://Jinhai.github.com/sitemap.xml 
+Sitemap: http://jinhai.github.com/sitemap.xml 
