@@ -4,7 +4,7 @@
   <title><![CDATA[StoryP.in]]></title>
   <link href="http://jinhai.github.com/atom.xml" rel="self"/>
   <link href="http://jinhai.github.com/"/>
-  <updated>2013-03-27T11:07:46+08:00</updated>
+  <updated>2013-04-28T15:42:06+08:00</updated>
   <id>http://jinhai.github.com/</id>
   <author>
     <name><![CDATA[Jinhai]]></name>
@@ -12,44 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[iWatch猜想]]></title>
-    <link href="http://jinhai.github.com/blog/2013/02/17/iwatchcai-xiang/"/>
-    <updated>2013-02-17T13:10:00+08:00</updated>
-    <id>http://jinhai.github.com/blog/2013/02/17/iwatchcai-xiang</id>
-    <content type="html"><![CDATA[<h3>基础手表功能</h3>
-
-<p><strong>显示时间</strong>，必须的。<br/>
-<strong>防水</strong>，一定要，手表不防水简直没法用。<br/>
-<strong>闹钟</strong>，普通和健康睡眠闹钟。<br/>
-<strong>超长时间待机</strong>，也许可以使用前几天获得的<a href="http://3.zol.com.cn/353/3537019.html">太阳能屏幕专利</a></p>
-
-<h3>不是方形的表面</h3>
-
-<p>方形的手表面太丑了，现有的<a href="http://tech.163.com/13/0217/10/8NTIKE8R00094MOK.html">Mockup</a>都很丑。<br/>
-圆形看着比较顺，不规则的可能也不错？</p>
-
-<h3>简洁易辨识的界面</h3>
-
-<p>不要像iOS的App图标矩阵界面，类似Metro的风格也许不错？</p>
-
-<h3>辅助通知中心</h3>
-
-<p>接管iOS的通知中心。<br/>
-来电，消息和App通知等，震动提示，消息摘要显示。</p>
-
-<h3>健康信息记录传感器</h3>
-
-<p>心跳，血压，步数，距离，光亮等等传感器。。。<br/>
-杀手级功能，完爆现有Nike Fuel+, Fitbit等。</p>
-
-<h3>Widget支持</h3>
-
-<p>完善的第三方Widget支持，可以自定义增加一些功能如：<br/>
-天气，手机状态（电量），开门按钮等等。。。</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello Octopress]]></title>
